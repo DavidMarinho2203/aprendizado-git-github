@@ -1,0 +1,26 @@
+Aprendi a instalar e configurar o GIT.
+No meu caso que eu estou usando WSL , ou seja estou usando o terminal do linux, dentro do windows.
+
+Lembrando que, esses comandos eu conseguir achar ele por causa do curso, não necessariamente eu aprendi ele no curso.
+
+comandos:
+
+    - Atualizar os pacotes instalados para suas versões mais recentes
+        + sudo apt upgrade
+    
+    - Instala o Git no seu sistema.
+        + sudo apt install git
+    
+    - Verificar a instalação
+        + git --version
+
+    - Configurar nome de usuário e email (lembrando que cas esteja em uma empresa, é melhor fazer isso toda vez que for entrar no sistema do terminal, para garantir que é você que está commitando)
+        + git config --global user.name "Seu Nome"
+        + git config --global user.email "seuemail@example.com"
+    
+    - Configurar o uso do terminal do Windows para interagir com o Git
+        (Se você deseja usar o terminal do Windows para interagir com o Git instalado no WSL, execute o seguinte comando)
+        + git config --global core.autocrlf true
+
+    - Com estes passos, você terá o Git instalado e configurado no Windows Subsystem for Linux (WSL), pronto para uso.
+

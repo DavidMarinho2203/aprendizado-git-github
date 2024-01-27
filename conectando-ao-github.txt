@@ -1,0 +1,46 @@
+Antes falar sobre conectar no  github, exitem duas fazer isso.
+
+1° Forma:
+    Você não criou o repositório ainda no github e quer mandar para o github.
+
+2° Forma(mais usado):
+    Você criou o repositório no github, e quer começar a fazer projeto.
+
+
+comandos:
+1° Forma:
+    - Após o projeto está todo feito no seu computador (local)
+
+    - Cria um repositório no github.
+
+    - Cria o README.md do projeto, e da um commit no projeto.
+
+    - Você tem que linkar o projeto ao github
+        + git remote add origin [link que foi pego no Github]
+
+    - Subir o projeto para github
+        + git push origin [master ou o branch PRINCIPAL]
+
+    detalhe: ele vai pedir informações da sua conta como [nome e token do github]
+
+    Após todas esse confimações, o projeto enfim sobe para o github.
+
+2° Forma(mais usado):
+    - Cria um repositório no github
+
+    - Clona o repositório na sua maquina local.
+
+    - Cria o README.md do projeto, e da um commit no projeto.
+
+    - Depois que criar todo o projeto, e commitar ele.
+
+    - Subir o projeto para github
+        + git push origin [master ou o branch PRINCIPAL]
+
+    detalhe: ele vai pedir informações da sua conta como [nome e token do github]
+
+    Após todas esse confimações, o projeto enfim sobe para o github.
+
+
+
+

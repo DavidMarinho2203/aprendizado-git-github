@@ -1,0 +1,36 @@
+Eu aprendi que branchs são versões alternativas de um projeto de software que derivam do mesmo ponto de origem.
+
+exemplo:
+    Suponha que você está trabalhando em um projeto de desenvolvimento de um site e precisa adicionar uma nova página de FAQ (Perguntas Frequentes).
+
+    Você cria uma nova "branch" chamada "faq-page" a partir do código principal.
+    Desenvolve a página de FAQ nessa branch.
+    Testa a página para garantir que funcione corretamente.
+    Quando estiver pronto, mescla a branch "faq-page" de volta ao código principal.
+    Agora, a nova página de FAQ está integrada ao site e pronta para ser implantada.
+
+
+Comandos: 
+
+Verificar as branchs:
+    - git branch
+
+***********************
+
+criar uma nova branch:
+    - git branch [nome da nova branch]
+
+Para criar e já mudar de branch:
+    - git checkout -b [nome da nova branc]
+
+************************
+
+Para mudar de branch
+    - git checkout [nome da branch que quer ir]
+
+************************
+
+Para deletar uma branch
+    - git branch -d [nome da branch que vai deletar]
+
+************************

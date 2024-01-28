@@ -1,15 +1,17 @@
-Nesse curso do git e github eu aprendi várias, incluindo :
+Nesse curso do git e github eu aprendi várias.
 
 No git eu aprendi a:
-    + Criar um repositorio.
-    + Vizualizar logs.
+    + Criar um repositório.(Local)
+    + Vizualizar logs. 
     + Vizualizar a diferança dos arquivos modificados ou não.
     + Desfazer alterações que estão na área de seleção.
     + Criar, Trocar e apagar BRANCHS
     + Aprendi sobre MERGE
-    + Ignorar arquivos (que é para caso eu não queira que o arquivo seja visto no github, eu crio um .ignore, e colocar os nomes dos arquivos que eu quero ignorar dentro do arquivo .ignore .)
+    + Ignorar ou impedir arquivos de serem visto no github.
 
 
 No git/github eu aprendi a:
-    + Criar um repositorio.
-    + Clonar o repositorio.
+    + Criar um repositório. (Remoto)
+    + Clonar o repositório.
+    + Aprendi sobre pull request
+

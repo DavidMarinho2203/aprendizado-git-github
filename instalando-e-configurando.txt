@@ -1,7 +1,7 @@
 Aprendi a instalar e configurar o GIT.
 No meu caso que eu estou usando WSL , ou seja estou usando o terminal do linux, dentro do windows.
 
-Lembrando que, esses comandos eu conseguir achar ele por causa do curso, não necessariamente eu aprendi ele no curso.
+Lembrando que, o curso me ensino a procurar esse comandos , não necessariamente eu aprendi os comandos no curso.
 
 comandos:
 
@@ -14,7 +14,7 @@ comandos:
     - Verificar a instalação
         + git --version
 
-    - Configurar nome de usuário e email (lembrando que cas esteja em uma empresa, é melhor fazer isso toda vez que for entrar no sistema do terminal, para garantir que é você que está commitando)
+    - Configurar nome de usuário e email (lembrando que caso esteja em uma empresa, é melhor fazer isso toda vez que for entrar no sistema do terminal, para garantir que, é você que está trabalhando)
         + git config --global user.name "Seu Nome"
         + git config --global user.email "seuemail@example.com"
     

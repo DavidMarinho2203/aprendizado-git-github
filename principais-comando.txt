@@ -2,9 +2,13 @@ Cada comando vai ter sua descrição:
 
 Lembrando que esses comando eu estou separando no meu entendimento.
 
+exemplo:
+    - comando
+        - descrição do comando.
+
 Comandos principais:
 
-    - sudo [comando]
+    - sudo [comando] (exclusivo para quem usar linux ou WSL no windows)
         - Permite rodar comandos que necessitam de privilégio de super usuário
 
     - cd [caminho desejado]
@@ -56,8 +60,6 @@ Comandos menos usados (porém importante):
         
     - exit
         - Fecha a sessão atual
-
-
 
 
 

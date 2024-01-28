@@ -12,7 +12,7 @@ exemplo:
 
 Comandos: 
 
-Verificar as branchs:
+Verificar as branchs que tem no repositório:
     - git branch
 
 ***********************
